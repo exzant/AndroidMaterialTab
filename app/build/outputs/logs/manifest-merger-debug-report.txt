@@ -1,0 +1,124 @@
+-- Merging decision tree log ---
+manifest
+ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\4d51541dab814dda50deeaf9fb854985\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e00f8a7ab10487fcf504729986e88637\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9b5ed04332dec6f6f03aac31183ae139\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e14280271b61885091fa8c2052f68744\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ecb6287c6a67afaf9b2aba14217a7daf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\90801f3ef632027ffb83d2043b3ed7a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1dc4bb336919183ad59e944560be7b10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\02fb918886867e03232eb6ecf8c8201e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b8edbf7e561c42b4966cb0f41403e7e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7763a819b68910556d9b451573c76d51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c04024066ed6b12fdfe62b278c1bf3d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dbdb8188a0ab7fbc898e201a43fb1e9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a22a711bb89ecdbc98fd02977dc8a40c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\17246d5817d40cabdb17d091b76c7f1e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4912dda9de1129ecb9e6f33c14335957\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c8a4e9f79f346510d49eddad2516007b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d9db45bc2d48547b6730edee1d44493e\AndroidManifest.xml:17:1-22:12
+INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+		INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9b5ed04332dec6f6f03aac31183ae139\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9b5ed04332dec6f6f03aac31183ae139\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.androidmaterialtab.MainActivity
+ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:12:19-47
+activity#com.example.androidmaterialtab.MainActivity2
+ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:theme
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:14:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\4d51541dab814dda50deeaf9fb854985\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\4d51541dab814dda50deeaf9fb854985\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e00f8a7ab10487fcf504729986e88637\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e00f8a7ab10487fcf504729986e88637\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9b5ed04332dec6f6f03aac31183ae139\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9b5ed04332dec6f6f03aac31183ae139\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e14280271b61885091fa8c2052f68744\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e14280271b61885091fa8c2052f68744\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ecb6287c6a67afaf9b2aba14217a7daf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ecb6287c6a67afaf9b2aba14217a7daf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\90801f3ef632027ffb83d2043b3ed7a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\90801f3ef632027ffb83d2043b3ed7a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1dc4bb336919183ad59e944560be7b10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1dc4bb336919183ad59e944560be7b10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\02fb918886867e03232eb6ecf8c8201e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\02fb918886867e03232eb6ecf8c8201e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b8edbf7e561c42b4966cb0f41403e7e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b8edbf7e561c42b4966cb0f41403e7e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7763a819b68910556d9b451573c76d51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7763a819b68910556d9b451573c76d51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c04024066ed6b12fdfe62b278c1bf3d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c04024066ed6b12fdfe62b278c1bf3d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dbdb8188a0ab7fbc898e201a43fb1e9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dbdb8188a0ab7fbc898e201a43fb1e9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a22a711bb89ecdbc98fd02977dc8a40c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a22a711bb89ecdbc98fd02977dc8a40c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\17246d5817d40cabdb17d091b76c7f1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\17246d5817d40cabdb17d091b76c7f1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4912dda9de1129ecb9e6f33c14335957\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4912dda9de1129ecb9e6f33c14335957\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c8a4e9f79f346510d49eddad2516007b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c8a4e9f79f346510d49eddad2516007b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d9db45bc2d48547b6730edee1d44493e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d9db45bc2d48547b6730edee1d44493e\AndroidManifest.xml:20:5-44
+INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+		INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+		ADDED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml
+		INJECTED from X:\Android\Project\AndroidMaterialTab\app\src\main\AndroidManifest.xml

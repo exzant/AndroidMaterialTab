@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#346cc1</color>
+    <color name="colorPrimaryDark">#3d5a80</color>
+    <color name="colorAccent">#ea3b2e</color>
+    <color name="colorPositif">#00be00</color>
+    <color name="colorNegatif">#ea3b2e</color>
+    <color name="colorNetral">#7f7f7f</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="custom_showcase_bg">#c8000000</color>
+</resources>

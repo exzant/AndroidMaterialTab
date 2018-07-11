@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "762454910647",
+    "firebase_url": "https://mycash-ebb26.firebaseio.com",
+    "project_id": "mycash-ebb26",
+    "storage_bucket": "mycash-ebb26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762454910647:android:52f99bbe1db52a75",
+        "android_client_info": {
+          "package_name": "id.mycash.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762454910647-413ceebmjp6p88rr7a29cieh61gjt7vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.mycash.app",
+            "certificate_hash": "0939851620ab783d874d235979816ddeb4af5c55"
+          }
+        },
+        {
+          "client_id": "762454910647-n74o34evlmdm7saipc6ha7gbqsbvkntq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.mycash.app",
+            "certificate_hash": "e1eca19bc42b643c03a99f37c7cf9690d605f686"
+          }
+        },
+        {
+          "client_id": "762454910647-msu99tukkqc2ak4ophb8lkth77dkbcsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9DM2XVdI-NpCw6XJBDPn9eExIRw_ZMrY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762454910647-msu99tukkqc2ak4ophb8lkth77dkbcsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
